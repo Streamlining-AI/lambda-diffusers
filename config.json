@@ -5,16 +5,7 @@
 		  "type" : "str",
 		  "description" : "text to image",
 		  "default" : "prime minister of thailand"
-	  },
-      {
-        "name" : "num_inference_steps",
-        "type" : "int",
-        "default" : 25,
-              "optional" : {
-            "ge" : 1,
-            "le" : 100
-        }
-      }
+	  }
   ],
 	"output" : 
 	   {
